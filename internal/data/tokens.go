@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/DataDavD/snippetbox/greenlight/internal/validator"
+	"github.com/codeaucafe/snippetbox/greenlight/internal/validator"
 )
 
 // ScopeActivation defines the "activate" scope for scope in the tokens table.

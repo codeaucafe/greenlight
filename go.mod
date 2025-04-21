@@ -1,4 +1,4 @@
-module github.com/DataDavD/snippetbox/greenlight
+module github.com/codeaucafe/snippetbox/greenlight
 
 go 1.18
 
